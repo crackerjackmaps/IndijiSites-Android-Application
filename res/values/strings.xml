@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IndijiSites</string>
+    
+    <string name="action_settings">Settings</string>
+    
+    <string name="menu_legalnotices">Legal Notices</string>
+    
+    <string name="map_not_ready">Map is not ready yet.</string>
+    
+    <string name="desc_bris">This is Brisbane</string>
+    
+    <string name="name_brisbane">Brisbane</string>
+    
+    <string name="transparency">transparency</string>
+    
+    <string name="murray_river_desc">For thousands of years many Aboriginal
+         people have relied on the Murray River for resources. Many scarred
+          trees (canoes crafted from River Red gums), banks of river rich
+           with sites including rock art, shields and other artefacts.</string>
+           
+    <string name="Purnululu_desc">55 km south of Turkey Creek rock paintings 
+        are found in some of the shelters, caves and gorges.. Motifs being 
+        ancestral beings from the Dreamtime, crocodiles, fish and stencils 
+        of children\'s hands. Few are available for public viewing.</string>
+        
+    <string name="sandy_national_desc">Aboriginal people have been fishing 
+        and collecting shellfish on Fraser Island for more than a thousand 
+        years and many of their middens can be seen along the east coast."</string>
+        
+    <string name="red_hands_desc">This Red Hands Cave site is one of the best 
+        examples of Aboriginal art in the Blue Mountains National Park.
+        The cave is a gallery of fine hand stencils and hand prints, 
+        created between 500 and 1600 years ago. Many of the stencils 
+        and prints overlap, making it difficult to see how many hands 
+        there are. Stencils are also a sign of respect for Country, 
+        and have a deep spiritual connection with the land. To make 
+        the stencils, Aboriginal people placed one hand against the 
+        cave wall and blew a mixture of ochre and water from their mouths. 
+        When the hand was removed, a stencilled outline was left behind. 
+        At other times, people covered their hands with ochre and placed them on the wall, 
+        leaving an imprint.</string>
+        
+    <string name ="birrigai_desc">Is the oldest known Aboriginal site in the ACT (Ngunnawal people).</string>
+        
+    <string name="chillagoe_desc">Open to the public are rockshelters with rock art such as Balancing Rock.</string>
+    
+    <string name="mtcameron_desc">One of the most important Aboriginal art sites in Tasmania.
+         Geometric motiffs cover nearly every inch of rock. Numerous deeply sculpted circles
+          and other motiffs.</string>
+    
+    <string name="innamincka_desc">Large Aboriginal Stone Quarry sites around Innamincka.</string>
+    
+    <string name="nullplain_desc">About 40 Aboriginal Sites, hand stencils, stone artefacts
+         and stone arrangements.</string>
+    
+    <string name="uluru_desc">Uluru, the most distinctive symbol of the Australian landscape. 
+        The park consists of two outstanding features- Uluru and the dramatic rock domes of Kata 
+        Tjuta( the Mount Olga group). Aboriginal owners of the rock are the Pitjantjatjara and 
+        Yankunytjatjara people. The caves around the base of Uluru are adorned with hundreds of 
+        rock paintings.</string>
+    
+</resources>
